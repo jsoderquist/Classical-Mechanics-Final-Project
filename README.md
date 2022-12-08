@@ -3,7 +3,7 @@ Tearing the Moon with Tidal Forces and Watching its Orbit
 
 
 To use:
-Open _main_.py and run. To change the Moon's initial distance from Earth, change HA at the bottom of the file constants.py. DT and ITERATIONS can also be change in constants.py to choose how fast the simulation runs. DT is measured in seconds and is the time interval between each Euler's method calculation. ITERATIONS is how many calculations the simulation does before checking tidal forces and displaying the new positions.
+Open \_\_main\_\_.py and run. To change the Moon's initial distance from Earth, change HA at the bottom of the file constants.py. DT and ITERATIONS can also be change in constants.py to choose how fast the simulation runs. DT is measured in seconds and is the time interval between each Euler's method calculation. ITERATIONS is how many calculations the simulation does before checking tidal forces and displaying the new positions.
 
 Known Issues:
 
