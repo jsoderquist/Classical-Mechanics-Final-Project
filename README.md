@@ -16,3 +16,5 @@ collisions_action:
 Problem: The simulation is aborted occasionally because it tries to remove an object that it has already removed.
 Proposed Solution: Currently unknown
 Current Implementation: pieces of debris never recombine
+
+Images of Earth and Moon from clipart-library.com
